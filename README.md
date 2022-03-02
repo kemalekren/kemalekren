@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I love coding in my free time too :)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemalekren&show_icons=true&theme=dark&locale=en" alt="kemalekren" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemalekren&show_icons=true&count_private=true&theme=dark&locale=en" alt="kemalekren" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemalekren&theme=dark" alt="kemalekren" /></p>
 
