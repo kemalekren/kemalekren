@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kemalekren" target="blank"><img src="https://img.shields.io/twitter/follow/kemalekren?logo=twitter&style=for-the-badge" alt="kemalekren" /></a> </p>
 
-- 🔭 I’m currently working on **????**
+<!-- - 🔭 I’m currently working on **????** -->
 
 - 🌱 I’m currently learning **C++ and python**
 
