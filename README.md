@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalekren&label=Profile%20views&color=0e75b6&style=flat" alt="kemalekren" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemalekren" alt="kemalekren" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemalekren" alt="kemalekren" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/kemalekren" target="blank"><img src="https://img.shields.io/twitter/follow/kemalekren?logo=twitter&style=for-the-badge" alt="kemalekren" /></a> </p>
 
@@ -21,11 +21,11 @@
 
 - 📄 Know about my experiences [http://kemalekren.com.tr/](http://kemalekren.com.tr/)
 
-- ⚡ Fun fact **I love coding in my free time too :)**
+<!-- - ⚡ Fun fact **I love coding in my free time too :)** -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemalekren&count_private=true&show_icons=true&theme=dark&locale=en" alt="kemalekren" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemalekren&theme=dark" alt="kemalekren" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemalekren&theme=dark" alt="kemalekren" /></p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
