@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C++ and python**
 
-- 👨‍💻 All of my projects are available at [www.kemalekren.com.tr](www.kemalekren.com.tr)
+<!-- 👨‍💻 All of my projects are available at [www.kemalekren.com.tr](www.kemalekren.com.tr) -->
 
 - 📝 I regularly write articles on [https://medium.com/@kemalekren](https://medium.com/@kemalekren)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kemalekren@hotmail.com**
 
-- 📄 Know about my experiences [http://kemalekren.com.tr/](http://kemalekren.com.tr/)
+<!--  📄 Know about my experiences [http://kemalekren.com.tr/](http://kemalekren.com.tr/) -->
 
 <!-- - ⚡ Fun fact **I love coding in my free time too :)** -->
 
