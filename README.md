@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kemalekren](https://medium.com/@kemalekren)
 
-- 💬 Ask me about **swift, swiftUI and iOS Development**
+- 💬 Ask me about **swift, SwiftUI and iOS Development**
 
 - 📫 How to reach me **kemalekren@hotmail.com**
 
@@ -23,7 +23,7 @@
 
 <!-- - ⚡ Fun fact **I love coding in my free time too :)** -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemalekren&count_private=true&show_icons=true&theme=dark&locale=en" alt="kemalekren" /></p>
+<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=kemalekren&theme=dark&hide_border=false)<br/>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemalekren&theme=dark" alt="kemalekren" /></p> -->
 
