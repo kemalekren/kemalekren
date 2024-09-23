@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **????** -->
 
-- 🌱 I’m currently learning **C++ and python**
+<!-- - 🌱 I’m currently learning **C++ and python** -->
 
 <!-- 👨‍💻 All of my projects are available at [www.kemalekren.com.tr](www.kemalekren.com.tr) -->
 
