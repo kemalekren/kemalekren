@@ -25,7 +25,7 @@
 
 <br/>![](https://github-readme-streak-stats.herokuapp.com/?user=kemalekren&theme=dark&hide_border=false)<br/>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemalekren&theme=dark" alt="kemalekren" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kemalekren&theme=dark" alt="kemalekren" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
