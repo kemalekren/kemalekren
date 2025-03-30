@@ -23,7 +23,7 @@
 
 <!-- - ⚡ Fun fact **I love coding in my free time too :)** -->
 
-<br/>[![GitHub Streak](https://streak-stats.demolab.com?user=kemalekren&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
+<br/>![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kemalekren&show_icons=true&theme=dark)<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
