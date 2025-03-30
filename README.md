@@ -23,7 +23,7 @@
 
 <!-- - ⚡ Fun fact **I love coding in my free time too :)** -->
 
-<br/>![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kemalekren&theme=github-dark)<br/>
+<br/>[![GitHub Streak](https://streak-stats.demolab.com?user=kemalekren&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
